@@ -1,5 +1,5 @@
 (async () => {
-  const SCRIPT_NAME = "HCK TAREFAS";
+  const SCRIPT_NAME = "ANTIGOV TAREFAS";
   console.log(`Iniciando ${SCRIPT_NAME}...`);
 
   const TOAST_BACKGROUND_COLOR = 'rgba(20, 20, 20, 0.9)';
